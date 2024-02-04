@@ -97,7 +97,7 @@ LightmapSettings:
     m_ExportTrainingData: 0
     m_TrainingDataDestination: TrainingData
     m_LightProbeSampleCountMultiplier: 4
-  m_LightingDataAsset: {fileID: 0}
+  m_LightingDataAsset: {fileID: 112000000, guid: 08104006d13fe1241b7495e980a6f2b7, type: 2}
   m_LightingSettings: {fileID: 4890085278179872738, guid: 6b18477053a73054e906d882a402ba5e, type: 2}
 --- !u!196 &4
 NavMeshSettings:
@@ -276,7 +276,7 @@ Light:
   m_BounceIntensity: 1
   m_ColorTemperature: 6570
   m_UseColorTemperature: 0
-  m_BoundingSphereOverride: {x: 0, y: 3.6e-44, z: 1e-45, w: 2.54e-42}
+  m_BoundingSphereOverride: {x: 1.02e-43, y: 2.2e-44, z: 1.0485e-41, w: NaN}
   m_UseBoundingSphereOverride: 0
   m_UseViewFrustumForShadowCasterCull: 1
   m_ShadowRadius: 0
@@ -7588,7 +7588,7 @@ PrefabInstance:
       objectReference: {fileID: 2100000, guid: b713eee0cb39a374a84a8cc9daa42eef, type: 2}
     - target: {fileID: -476328657854959263, guid: 45fc6d1cdd2a3a449b5dd4fe487d3b0a, type: 3}
       propertyPath: m_ScaleInLightmap
-      value: 3
+      value: 6
       objectReference: {fileID: 0}
     - target: {fileID: -476328657854959263, guid: 45fc6d1cdd2a3a449b5dd4fe487d3b0a, type: 3}
       propertyPath: m_Materials.Array.data[0]
@@ -22285,7 +22285,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 7fc746b13dfaae44e98a4616cd1ac452, type: 3}
       propertyPath: m_IsActive
-      value: 0
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 7fc746b13dfaae44e98a4616cd1ac452, type: 3}
       propertyPath: m_StaticEditorFlags
