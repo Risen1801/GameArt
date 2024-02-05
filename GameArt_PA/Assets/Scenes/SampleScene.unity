@@ -350,7 +350,7 @@ Light:
   m_BounceIntensity: 1
   m_ColorTemperature: 6570
   m_UseColorTemperature: 0
-  m_BoundingSphereOverride: {x: NaN, y: NaN, z: NaN, w: 3.923636e-39}
+  m_BoundingSphereOverride: {x: 9.459056e-39, y: 4.0999042e-19, z: 2.2e-44, w: 9.1835e-41}
   m_UseBoundingSphereOverride: 0
   m_UseViewFrustumForShadowCasterCull: 1
   m_ShadowRadius: 0
@@ -1913,7 +1913,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 0
+  m_IsActive: 1
 --- !u!4 &647433259
 Transform:
   m_ObjectHideFlags: 0
@@ -23413,7 +23413,7 @@ PrefabInstance:
     - target: {fileID: -4579652140576713916, guid: 7fc746b13dfaae44e98a4616cd1ac452, type: 3}
       propertyPath: m_Materials.Array.data[0]
       value: 
-      objectReference: {fileID: 2100000, guid: 09138028eee1b21498982f8857a6c8e7, type: 2}
+      objectReference: {fileID: 2100000, guid: 3c3d23335ffd0994fb944b8ee40749df, type: 2}
     - target: {fileID: -548337570385555557, guid: 7fc746b13dfaae44e98a4616cd1ac452, type: 3}
       propertyPath: m_StaticEditorFlags
       value: 2147483647
@@ -23445,7 +23445,7 @@ PrefabInstance:
     - target: {fileID: 6128706351507723623, guid: 7fc746b13dfaae44e98a4616cd1ac452, type: 3}
       propertyPath: m_Materials.Array.data[0]
       value: 
-      objectReference: {fileID: 2100000, guid: 09138028eee1b21498982f8857a6c8e7, type: 2}
+      objectReference: {fileID: 2100000, guid: 3c3d23335ffd0994fb944b8ee40749df, type: 2}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -24323,7 +24323,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 0
+  m_IsActive: 1
 --- !u!4 &1742616189
 Transform:
   m_ObjectHideFlags: 0
